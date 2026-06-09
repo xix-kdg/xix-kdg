@@ -101,7 +101,7 @@ Australia's leading digital asset and cryptocurrency exchange.
 
  IoT (Internet of Things). Supports connectivity via Wi-Fi, Bluetooth, ZigBee, GPRS Embedded Modules for any devices (smart plugs, door & window sensors, smart smoke sensors, smart motion sensors, etc).
 
-* 🔗 **Links:** [Google Play Store](https://play.google.com/store/apps/details?id=com.btcmarket.btcm)
+* 🔗 **Links:** [App Store](https://apps.apple.com/ph/app/cnx-for-home/id1504173478) Alternative
 
 ---
 
