@@ -6,6 +6,8 @@ I excel in fast-paced environments, adapting quickly to evolving project require
 
 While my deep expertise lies in the **Android ecosystem**, I also bring **intermediate exposure to web development** and a **beginner foundation in iOS development**, allowing me to easily bridge the gap across cross-platform engineering initiatives.
 
+I also leverage prompt engineering to generate, review, and optimize code, tests, and technical documentation, improving productivity and development efficiency. In addition, I have practically explored Spec-Driven Development (SDD) by transforming clear specifications into AI-assisted implementations, strengthening alignment between requirements, design, and delivery.
+
 ---
 
 ### 🧰 Tech Stack & Expertise
@@ -13,6 +15,7 @@ While my deep expertise lies in the **Android ecosystem**, I also bring **interm
 * **Mobile (Expert):** Android SDK, Kotlin, Java, Jetpack Compose, Coroutines/Flow, Dagger/Hilt, Architecture Components (MVVM/MVI), Clean Architecture.
 * **Mobile (Beginner):** iOS Development, Swift, UIKit.
 * **Web (Intermediate):** JavaScript/TypeScript, React.js, Express.js, Node.js, C# .NET, MongoDB.
+* **AI-Assisted Development:** Prompt Engineering, Generative AI, AI-assisted code generation, test generation, documentation optimization, Spec-Driven Development (SDD).
 * **Methodologies & Tools:** Agile/Scrum, CI/CD pipelines, Git, Team Leadership & Mentoring.
 
 ---
